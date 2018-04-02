@@ -1,4 +1,4 @@
-# React Context API
+# React v16.3.0: New lifecycles and context API
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
